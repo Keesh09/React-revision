@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "task": "Buy groceries",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "task": "Finish the project report",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "task": "Call the plumber",
+      "completed": true
+    },
+    {
+      "id": 4,
+      "task": "Go for a run",
+      "completed": false
+    },
+    {
+      "id": "772a3f84-67ae-47d0-aea2-f24ab733891a",
+      "task": "make Yoga",
+      "complete": false
+    },
+    {
+      "id": "9f0114f6-69ae-4448-88c4-ba92e09847b5",
+      "task": "cc",
+      "complete": false
+    }
+  ]
+}
